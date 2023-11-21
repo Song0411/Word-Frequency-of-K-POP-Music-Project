@@ -11,4 +11,4 @@ Examining such differences provides a unique way to gain insight into the distin
 
 I believe I need to explore this in six steps, starting with data collection, then pre-processing the text, doing word frequency analysis and statistical analysis, and finally providing an in-depth interpretation of significant differences.
 
-The main data I need to collect is the lyrics text data, which is available from GitHub. In order to study this, I may need to use tools such as NLTK, Python, and so on.
+The main data I need to collect is the lyrics text data, which is available from GitHub. In order to study this, I may need to use tools such as NLTK, Python, Flourish and so on.
